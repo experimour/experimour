@@ -6,7 +6,7 @@
 Full-stack career gamification platform,    convert your jobs, skills and education into experiences points and level up your career!
 
 
-## v | Main Links | v
+## Main Links
 [levelith.online](https://levelith.online) ~ Live production
 
 [backend](https://github.com/experimour/backend) ~ Dedicated Backend Repository
