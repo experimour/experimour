@@ -1,7 +1,7 @@
 <a href="https://levelith.online"> <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=088732&text=Experimour&stroke=000000&strokeWidth=2&fontColor=FFFFFF"/></a>
 
 
-## Progress You Can Feel. XP You Can See.
+## Progress you can feel. XP you can see.
 
 Full-stack career gamification platform,    convert your jobs, skills and education into experiences points and level up your career!
 
